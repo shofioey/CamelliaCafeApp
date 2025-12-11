@@ -1,0 +1,17 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "ADMIN"
+  },
+  {
+    "username": "seller",
+    "password": "seller",
+    "role": "SELLER"
+  },
+  {
+    "username": "buyer",
+    "password": "buyer",
+    "role": "BUYER"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "P001",
+    "name": "Nasi Rebus",
+    "price": 15000.0,
+    "description": "Nasi goreng spesial dengan telur",
+    "stock": 16,
+    "category": "MAKANAN"
+  },
+  {
+    "id": "P002",
+    "name": "Mie Goreng",
+    "price": 12000.0,
+    "description": "Mie goreng pedas manis",
+    "stock": 15,
+    "category": "MAKANAN"
+  },
+  {
+    "id": "P003",
+    "name": "Ayam Bakar",
+    "price": 25000.0,
+    "description": "Ayam bakar bumbu rujak",
+    "stock": 7,
+    "category": "MAKANAN"
+  },
+  {
+    "id": "P004",
+    "name": "Es Teh Manis",
+    "price": 5000.0,
+    "description": "Teh manis dingin segar",
+    "stock": 50,
+    "category": "MINUMAN"
+  },
+  {
+    "id": "P005",
+    "name": "Es Jeruk",
+    "price": 7000.0,
+    "description": "Jeruk peras segar",
+    "stock": 40,
+    "category": "MINUMAN"
+  },
+  {
+    "id": "P006",
+    "name": "Kopi Susu",
+    "price": 12000.0,
+    "description": "Kopi susu gula aren",
+    "stock": 30,
+    "category": "MINUMAN"
+  },
+  {
+    "id": "P007",
+    "name": "Kentang Goreng",
+    "price": 10000.0,
+    "description": "Kentang goreng krispy",
+    "stock": 25,
+    "category": "SNACK"
+  },
+  {
+    "id": "P008",
+    "name": "Pisang rebus",
+    "price": 8000.0,
+    "description": "Pisang goreng khas ngawi",
+    "stock": 20,
+    "category": "SNACK"
+  }
+]
